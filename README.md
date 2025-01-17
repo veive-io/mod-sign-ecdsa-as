@@ -4,6 +4,8 @@
 
 `ModSignEcdsa` is a module in the Veive protocol designed to validate signatures using the ECDSA (Elliptic Curve Digital Signature Algorithm) secp256k1 standard. ECDSA is widely used in blockchain systems for securing transactions and verifying the authenticity of messages. This module focuses specifically on validating ECDSA signatures, ensuring that transactions are signed by the rightful account owners.
 
+![image](https://github.com/user-attachments/assets/b7af2978-2e56-4c4e-8277-2259cb42af21)
+
 ## **Purpose**
 
 ECDSA is a cryptographic algorithm that generates a digital signature from a private key and a message. In blockchain applications, this signature proves ownership and authorizes transactions. The algorithm provides a high level of security, making it a popular choice for blockchain systems, including Bitcoin and Ethereum.
